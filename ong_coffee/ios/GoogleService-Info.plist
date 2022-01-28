@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>606246164324-p2h2s1cip4up7mcbsi930qsc4scmrhq4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.606246164324-p2h2s1cip4up7mcbsi930qsc4scmrhq4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0sFe7sfZt0dmrWrIoBLHbvOSYsbzNAM0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>606246164324</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.xpress.ongCoffee</string>
+	<key>PROJECT_ID</key>
+	<string>ongcoffee-805da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ongcoffee-805da.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:606246164324:ios:8f55c7e6a83fbfa8f0cc71</string>
+</dict>
+</plist>

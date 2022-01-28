@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579723618334",
+    "project_id": "ongcoffeedelivery",
+    "storage_bucket": "ongcoffeedelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579723618334:android:b890e8552e735fdc49e60f",
+        "android_client_info": {
+          "package_name": "net.xpress.ongcoffeedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579723618334-4vs7fob4gd3juegjb69911q59o7uebsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjvZH4f4MCyB6TWD1AN2k6KGjeAKqOZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579723618334-4vs7fob4gd3juegjb69911q59o7uebsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
